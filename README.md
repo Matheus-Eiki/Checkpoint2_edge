@@ -88,7 +88,8 @@ Projeto finalizado
 <li>LCD 16x2(I2C)</li>
 
 <h2>Link Vídeo youtube:</h2>
-
+<a href="https://youtu.be/v1B94mw22M8?si=Plat4EcGKlagltY4">Clique aqui para acessar o vídeo explicativo</a>
+  
 <hr></hr>
 
 <h2>Autores</h2>
