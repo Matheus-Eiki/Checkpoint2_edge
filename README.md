@@ -24,9 +24,11 @@ Projeto finalizado
 </ul>
 <h2>3.RTC</h2>
 <ul>
-  <li>O RTC armazena dados, como por exemplo a temperatura e umidade além da data e hora.</li>
+  <li>O RTC armazena os dados de temperatura, umidade e luminosidade.</li>
+  <li>Os dados com divergência são registradas a cada 60 segundos</li>
+  <li>Calcula a data e a hora em tempo real</li>
 </ul>
-<h2>2. Indicação Visual</h2>
+<h2>4. Indicação Visual</h2>
 <ul>
   <div>Com base na intensidade da luz detectada, um LED é aceso, indicando diferentes níveis de alerta:</div>
   <ul>
@@ -39,7 +41,7 @@ Projeto finalizado
 
 
 
-<h2>3. Alerta Sonoro</h2>
+<h2>5. Alerta Sonoro</h2>
 <ul>
   <ul>
     <li>Quando os LEDs vermelho ou amarelo são ativados, um buzzer emite um sinal sonoro.</li>
@@ -52,7 +54,7 @@ Projeto finalizado
 <h2>📁Acesso ao projeto</h2>
 
 <div>O acesso ao projeto se encontra na plataforma de simulação do wokwi no link abaixo:</div>
-<a href= "https://wokwi.com/projects/412919690825689089">Clique Aqui</a>
+<a href= "https://wokwi.com/projects/412942284223900673">Clique Aqui</a>
 
 <h2>🙋Abrir e rodar o projeto</h2>
 <div>Após abrir o link acima siga com as etapas abaixo:</div>
@@ -72,9 +74,9 @@ Projeto finalizado
 </ul>
 <h2>🎯Tecnologias utilizadas</h2>
 
-<h2>Linguagem</h2>
+<h3>Linguagem</h3>
 <li>Linguagem em C++</li>
-<li>Hardware</li>
+<h3>Hardware</h3>
 <li>Arduino uno R3</li>
 <li>Placa de ensaio</li>
 <li>LEDs ( verde, amarelo e vermelho)</li>
